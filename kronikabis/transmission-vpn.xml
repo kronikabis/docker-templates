@@ -12,10 +12,10 @@
     [b]/config[/b] : in this path, Transmission will store it's configuration files.[br]
     [b]/downloads[/b] : in this path Transmission will store the downloaded files.
   </Description>
-  <Registry>https://registry.hub.docker.com/u/gfjardim/transmission/</Registry>
-  <GitHub>https://github.com/gfjardim/docker-transmission</GitHub>
-  <Repository>gfjardim/transmission</Repository>
-  <Support>http://lime-technology.com/forum/index.php?topic=39227.0</Support>
+  <Registry>https://hub.docker.com/r/kronikabis/docker-transmission-openvpn/</Registry>
+  <GitHub>https://github.com/kronikabis/docker-transmission-openvpn</GitHub>
+  <Repository>kronikabis/docker-transmission-openvpn</Repository>
+  <Support>N/A</Support>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
   <Environment>
